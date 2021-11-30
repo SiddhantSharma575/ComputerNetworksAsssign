@@ -32,5 +32,7 @@ int main()
 	
 	cout << binaryToDecimal(firstocted)<<"."<<binaryToDecimal(secondocted)
 	<<"."<<binaryToDecimal(thirdocted)<<"."<<binaryToDecimal(firstocted)<< endl;
+	
+	return 0;
 }
 
